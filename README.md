@@ -36,3 +36,6 @@ The main project is implemented in `matrix_solver_project_using_numpy.ipynb`.
 ## Why I built it
 
 I built this project while learning NumPy, using matrices as a practical way to experiment with NumPy arrays and operations.
+
+## NumPy Learning Notes
+A notebook I created while learning NumPy using the official NumPy documentation. It contains examples, experiments, and notes from my learning process. Feel free to use it as a reference while learning NumPy.
